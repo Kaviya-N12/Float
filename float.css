@@ -1,0 +1,17 @@
+.left{
+    height: 370px;
+    width: 50%;
+    background-image: url(image.jpg);
+    float: left;
+    background-size: cover;
+}
+.right{
+    color: deepskyblue;
+    height: 370px;
+    float: right;
+    width:49%;
+}
+.par{
+    color: deeppink;
+    clear: both;
+}
